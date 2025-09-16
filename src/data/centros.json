@@ -1,0 +1,34 @@
+[
+  {
+    "name": "APRECOD – Centro de Orientación y Atención Virtual (Provincia de Santa Fe)",
+    "desc": "Escucha profesional gratuita todos los días de 8 a 24 h (consumos problemáticos y comportamientos adictivos).",
+    "phone": "0800-268-5640",
+    "website": "https://www.santafe.gob.ar/ms/juegocompulsivo/",
+    "address": "Cobertura provincial (Rosario y Santa Fe)",
+    "note": "WhatsApp: 341-540-7653 (8 a 24 h)"
+  },
+  {
+    "name": "Agencia municipal (Rosario) – Consumos problemáticos",
+    "desc": "Línea de atención 24 h. Orientación y derivación a la red local.",
+    "phone": "341-336-8116",
+    "website": "https://www.rosario.gob.ar/inicio/agencia-de-prevencion-y-abordajes-de-consumos-problematicos",
+    "address": "Rosario, Santa Fe",
+    "note": "De 8 a 20 por llamada y WhatsApp; de 20 a 8 solo llamadas."
+  },
+  {
+    "name": "Lotería de Santa Fe – Juego Responsable / Autoexclusión",
+    "desc": "Información sobre el Programa de Autoexclusión en salas de juego de la provincia.",
+    "phone": "",
+    "website": "https://www.loteriasantafe.gov.ar/index.php/juego-responsable",
+    "address": "Provincia de Santa Fe",
+    "note": "Ver instructivo de autoexclusión y canales de trámite."
+  },
+  {
+    "name": "Red Ludopatía Rosario",
+    "desc": "Equipo interdisciplinario de prevención y tratamiento de la adicción al juego y pantallas.",
+    "phone": "+54 9 341 619-6578",
+    "website": "https://redludopatiarosario.wordpress.com/",
+    "address": "Rosario, Santa Fe",
+    "note": "Contacto por redes sociales: @redludopatiarosario"
+  }
+]
